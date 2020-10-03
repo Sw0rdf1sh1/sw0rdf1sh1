@@ -1,7 +1,13 @@
-### Hi there 👋
+<h3 style="display:flex;justify-content: space-between;">
+  <span>Hi there, I'm sw0rdf1sh1</span> 
+</h3>
 
+![Visitor Count](https://profile-counter.glitch.me/sw0rdf1sh1/count.svg)
+
+[![sw0rdf1sh1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw0rdf1sh1&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw0rdf1sh1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**Sw0rdf1sh1/sw0rdf1sh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sw0rdf1sh1/sw0rdf1sh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
